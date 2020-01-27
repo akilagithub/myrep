@@ -1,2 +1,3 @@
 welcome
+branch2
 branch1
